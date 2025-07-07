@@ -15,6 +15,7 @@ public class US01 {
         Driver.quitDriver();
         System.out.println("Merhaba");
         System.out.println("Hello World");
+        System.out.println("Proje Start");
 
     }
 }
